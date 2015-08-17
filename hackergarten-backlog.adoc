@@ -8,4 +8,5 @@
 * Babun 
 * AsciiDoc IntelliJ Plugin
 * Sonar Community Plugin
+* Spock + Spock / Groovy Intellij Plugin
 
