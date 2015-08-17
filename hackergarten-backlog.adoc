@@ -1,1 +1,11 @@
 
+= Hackergarten
+
+== Ideas
+
+* Mockito
+** https://github.com/mockito/mockito/issues/246
+* Babun 
+* AsciiDoc IntelliJ Plugin
+* Sonar Community Plugin
+
