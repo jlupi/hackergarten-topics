@@ -9,4 +9,5 @@
 * AsciiDoc IntelliJ Plugin - https://github.com/asciidoctor/asciidoctor-intellij-plugin
 * Sonar Community Plugin
 * Spock + Spock / Groovy Intellij Plugin
+* liquibase - https://liquibase.jira.com/projects/CORE/issues/CORE-2464?filter=allopenissues
 
