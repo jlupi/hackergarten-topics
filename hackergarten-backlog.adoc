@@ -6,7 +6,7 @@
 * Mockito
 ** https://github.com/mockito/mockito/issues/246
 * Babun 
-* AsciiDoc IntelliJ Plugin
+* AsciiDoc IntelliJ Plugin - https://github.com/asciidoctor/asciidoctor-intellij-plugin
 * Sonar Community Plugin
 * Spock + Spock / Groovy Intellij Plugin
 
