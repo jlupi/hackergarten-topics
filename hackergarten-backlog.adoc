@@ -3,12 +3,11 @@
 
 == Ideas
 
-* Mockito
-** https://github.com/mockito/mockito/issues/246
+* Mockito - https://github.com/mockito/mockito/issues/246
 * Babun 
 * AsciiDoc IntelliJ Plugin - https://github.com/asciidoctor/asciidoctor-intellij-plugin
-* Sonar Community Plugin
-* Spock + Spock / Groovy Intellij Plugin
+* Spock -https://github.com/spockframework 
++ Spock / Groovy Intellij Plugin
 * liquibase - https://liquibase.jira.com/projects/CORE/issues/CORE-2464?filter=allopenissues
 * sonar intellij plugin - https://github.com/sonar-intellij-plugin/sonar-intellij-plugin/issues
 
