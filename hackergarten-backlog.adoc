@@ -10,4 +10,5 @@
 * Sonar Community Plugin
 * Spock + Spock / Groovy Intellij Plugin
 * liquibase - https://liquibase.jira.com/projects/CORE/issues/CORE-2464?filter=allopenissues
+* sonar intellij plugin - https://github.com/sonar-intellij-plugin/sonar-intellij-plugin/issues
 
