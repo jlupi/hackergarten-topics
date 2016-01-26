@@ -12,5 +12,9 @@
 * liquibase - https://liquibase.jira.com/projects/CORE/issues/CORE-2464?filter=allopenissues
 * sonar intellij plugin - https://github.com/sonar-intellij-plugin/sonar-intellij-plugin/issues
 
+== mal angucken
+* cucumber https://github.com/cucumber/cucumber-jvm/issues
+* junit https://github.com/junit-team/junit/issues
+
 == eher nicht
 * bytebuddy 
