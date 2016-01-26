@@ -3,7 +3,7 @@
 
 == Ideas
 
-* Mockito - https://github.com/mockito/mockito/issues/246
+* Mockito - https://github.com/mockito/mockito/issues
 * Babun 
 
 * AsciiDoc IntelliJ Plugin - https://github.com/asciidoctor/asciidoctor-intellij-plugin
@@ -12,9 +12,19 @@
 * liquibase - https://liquibase.jira.com/projects/CORE/issues/CORE-2464?filter=allopenissues
 * sonar intellij plugin - https://github.com/sonar-intellij-plugin/sonar-intellij-plugin/issues
 
-== mal angucken
-* cucumber https://github.com/cucumber/cucumber-jvm/issues
-* junit https://github.com/junit-team/junit/issues
+== mal angucken 
+* cucumber - https://github.com/cucumber/cucumber-jvm/issues
+
+=== im sbb einsatz
+* junit - https://github.com/junit-team/junit/issues
+* guava - https://github.com/google/guava/issues
+* gson - https://github.com/google/gson
+* ehcache - https://github.com/ehcache/ehcache3/issues
+* modelmapper - https://github.com/jhalterman/modelmapper/issues
+* jsoup - https://github.com/jhy/jsoup/issues
+* joda-time - https://github.com/JodaOrg/joda-time/issues
+* hamcrest - https://github.com/hamcrest/JavaHamcrest/issues
+* xstream - https://github.com/x-stream/xstream/issues
 
 == eher nicht
 * bytebuddy 
