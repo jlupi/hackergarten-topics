@@ -25,6 +25,7 @@
 * joda-time - https://github.com/JodaOrg/joda-time/issues
 * hamcrest - https://github.com/hamcrest/JavaHamcrest/issues
 * xstream - https://github.com/x-stream/xstream/issues
+* jenkins - https://issues.jenkins-ci.org/secure/Dashboard.jspa
 
 == eher nicht
 * bytebuddy 
