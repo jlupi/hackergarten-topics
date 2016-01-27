@@ -14,6 +14,8 @@
 
 == mal angucken 
 * cucumber - https://github.com/cucumber/cucumber-jvm/issues
+* jbake - https://github.com/jbake-org/jbake/issues
+* electron (das komische zeller Ding) - https://github.com/atom/electron/issues
 
 === im sbb einsatz
 * junit - https://github.com/junit-team/junit/issues
