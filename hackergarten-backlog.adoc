@@ -20,7 +20,7 @@
 === im sbb einsatz
 * junit - https://github.com/junit-team/junit/issues
 * guava - https://github.com/google/guava/issues
-* gson - https://github.com/google/gson
+* gson - https://github.com/google/gson - https://github.com/google/gson/issues/904
 * ehcache - https://github.com/ehcache/ehcache3/issues
 * modelmapper - https://github.com/jhalterman/modelmapper/issues
 * jsoup - https://github.com/jhy/jsoup/issues
