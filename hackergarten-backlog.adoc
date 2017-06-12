@@ -13,6 +13,9 @@
 * Babun 
 
 * AsciiDoc IntelliJ Plugin - https://github.com/asciidoctor/asciidoctor-intellij-plugin
+* asciidoctor maven plugin - https://github.com/asciidoctor/asciidoctor-maven-plugin/issues
+* asciidoctor gradle plugin - https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues
+
 * Spock -https://github.com/spockframework 
 + Spock / Groovy Intellij Plugin
 * liquibase - https://liquibase.jira.com/projects/CORE/issues/CORE-2464?filter=allopenissues
