@@ -1,6 +1,12 @@
 
 = Hackergarten
 
+== topics 2017-08-08
+
+== topics 2017-06-13
+* https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197 
+* https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37
+
 == Ideas
 
 * Mockito - https://github.com/mockito/mockito/issues
