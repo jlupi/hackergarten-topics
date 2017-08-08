@@ -3,6 +3,9 @@
 
 == topics 2017-08-08
 
+* https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/180
+* git plugin which shows who changed how much of a file (new project)
+
 == topics 2017-06-13
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197 
 * https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37 => DONE
