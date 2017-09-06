@@ -2,12 +2,14 @@
 = Hackergarten
 
 == topics 2017-10-10
-* https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/188 
+* Asciidoctor intellij plugin
+** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/188
+** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/180
 
 == topics 2017-08-08
 
-* https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/180
-* git plugin which shows who changed how much of a file (new project)
+
+* git plugin which shows who changed how much of a file (new project) => DONE
 
 == topics 2017-06-13
 * https://github.com/asciidoctor/asciidoctor-gradle-plugin/issues/197 
