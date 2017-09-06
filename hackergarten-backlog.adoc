@@ -1,6 +1,9 @@
 
 = Hackergarten
 
+== topics 2017-10-10
+* https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/188 
+
 == topics 2017-08-08
 
 * https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/180
