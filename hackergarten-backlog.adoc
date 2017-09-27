@@ -16,7 +16,7 @@
 * https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/37 => DONE
 
 == Ideas
-
+* Builder für IntelliJ - https://github.com/analytically/innerbuilder/issues
 * Mockito - https://github.com/mockito/mockito/issues
 * Babun 
 
