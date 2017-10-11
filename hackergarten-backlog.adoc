@@ -3,7 +3,9 @@
 
 == topics 2017-06-13
 
-* Jacoco skip kotlin generated code, see https://github.com/jacoco/jacoco/issues/552. Possible once https://youtrack.jetbrains.com/issueMobile/KT-18383 is fixed
+* Jacoco skip kotlin generated code, see 
+** https://github.com/jacoco/jacoco/issues/552
+** Possible once https://youtrack.jetbrains.com/issueMobile/KT-18383 is fixed
 * issues from https://github.com/ronmamo/reflections/issues
 * Asciidoctor intellij plugin
 ** https://github.com/asciidoctor/asciidoctor-intellij-plugin/issues/188
