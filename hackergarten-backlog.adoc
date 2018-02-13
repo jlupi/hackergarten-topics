@@ -1,6 +1,11 @@
 
 = Hackergarten
 
+== topics 2018-02-13
+
+* Spring-Boot Annotation @ConfigurationProperties Repeatable machen.
+** https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/context/properties/ConfigurationProperties.java
+
 == topics 2017-06-13
 
 * asciidoctor mermaid integration?
