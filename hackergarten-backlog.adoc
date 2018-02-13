@@ -3,6 +3,8 @@
 
 == topics 2017-06-13
 
+* asciidoctor mermaid integration?
+** https://mermaidjs.github.io/usage.html
 * Jacoco skip kotlin generated code, see 
 ** https://github.com/jacoco/jacoco/issues/552
 ** Possible once https://youtrack.jetbrains.com/issueMobile/KT-18383 is fixed
